@@ -1,0 +1,78 @@
+!mkdir -p data/mit_indoor_67/raw
+!wget http://groups.csail.mit.edu/vision/LabelMe/NewImages/indoorCVPR_09.tar
+!wget http://web.mit.edu/torralba/www/TrainImages.txt -P data/mit_indoor_67
+!wget http://web.mit.edu/torralba/www/TestImages.txt -P data/mit_indoor_67
+!tar -xf indoorCVPR_09.tar -C data/mit_indoor_67/raw
+!rm -rf indoorCVPR_09.tar
+import os
+from glob import glob
+
+data_dir = 'data/mit_indoor_67/raw/Images'
+category_dir = glob(os.path.join(data_dir, '*'))
+image_files = []
+for category in category_dir:
+    image_files += glob(os.path.join(category, '*'))
+
+print(f"""Number of categories: {len(category_dir)}
+Number of Images: {len(image_files)}""")
+from collections import Counter
+from heapq import nlargest, nsmallest
+
+train_txt = 'data/mit_indoor_67/TrainImages.txt'
+test_txt = 'data/mit_indoor_67/TestImages.txt'
+
+train_image_paths = open(train_txt).read().split('\n')
+test_image_paths = open(test_txt).read().split('\n')
+
+train_image_counts = Counter([path.split('/')[0] for path in train_image_paths])
+test_image_counts = Counter([path.split('/')[0] for path in test_image_paths])
+
+print(f"""TRAINING SET:
+Number of samples: {len(train_image_paths)}
+Number of categories: {len(train_image_counts)}
+Subsample range of each category (min. - max.): {train_image_counts[nsmallest(1, train_image_counts, key=train_image_counts.get)[0]]} - {train_image_counts[nlargest(1, train_image_counts, key=train_image_counts.get)[0]]}""")
+
+print(f"""TEST SET:
+Number of samples: {len(test_image_paths)}
+Number of categories: {len(test_image_counts)}
+Subsample range of each category (min. - max.): {test_image_counts[nsmallest(1, test_image_counts, key=test_image_counts.get)[0]]} - {test_image_counts[nlargest(1, test_image_counts, key=test_image_counts.get)[0]]}""")
+
+import cv2
+
+def print_shape(data_dir, paths):
+    print()
+    for idx, path in enumerate(paths):
+        img = cv2.imread(os.path.join(data_dir, path))
+        print(f'{idx+1} - {path} is of size: {img.shape[0]} x {img.shape[1]}')
+
+print("FIRST 10 TRAIN IMAGE SIZE:")
+print_shape(data_dir, train_image_paths[:10])
+print()
+print("FIRST 10 TEST IMAGE SIZE:")
+print_shape(data_dir, test_image_paths[:10])
+
+import matplotlib.pyplot as plt
+
+# Training category distribution
+categories = list(train_image_counts.keys())
+counts = list(train_image_counts.values())
+
+plt.figure(figsize=(15, 5))
+plt.bar(categories, counts, color='skyblue')
+plt.xlabel('Category')
+plt.ylabel('Number of Images')
+plt.title('Training Set Category Distribution')
+plt.xticks(rotation=90)
+plt.show()
+
+# Test category distribution
+categories_test = list(test_image_counts.keys())
+counts_test = list(test_image_counts.values())
+
+plt.figure(figsize=(15, 5))
+plt.bar(categories_test, counts_test, color='orange')
+plt.xlabel('Category')
+plt.ylabel('Number of Images')
+plt.title('Test Set Category Distribution')
+plt.xticks(rotation=90)
+plt.show()
