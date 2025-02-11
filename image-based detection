@@ -1,0 +1,40 @@
+import cv2
+import pandas as pd
+import matplotlib.pyplot as plt
+from google.colab import files
+from ultralytics import YOLO
+
+uploaded = files.upload()
+image_path = list(uploaded.keys())[0]
+
+model = YOLO("yolov8n.pt")
+
+def detect_objects(image_path):
+    img = cv2.imread(image_path)
+    img_rgb = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
+    results = model(img_rgb)
+
+    detections = results[0].boxes
+    detection_data = []
+
+    for box in detections:
+        x_min, y_min, x_max, y_max = box.xyxy[0].numpy()  # Get bounding box coordinates
+        confidence = box.conf[0].item()  # Confidence score
+        class_id = int(box.cls[0].item())  # Class ID
+        class_name = results[0].names[class_id]  # Class name
+
+        detection_data.append([class_name, confidence, x_min, y_min, x_max, y_max])
+    results_table = pd.DataFrame(detection_data, columns=['Class', 'Confidence', 'xmin', 'ymin', 'xmax', 'ymax'])
+
+    plt.imshow(img_rgb)
+    ax = plt.gca()
+    for _, row in results_table.iterrows():
+        xmin, ymin, xmax, ymax = int(row['xmin']), int(row['ymin']), int(row['xmax']), int(row['ymax'])
+        ax.add_patch(plt.Rectangle((xmin, ymin), xmax - xmin, ymax - ymin, linewidth=2, edgecolor='red', facecolor='none'))
+        ax.text(xmin, ymin, f"{row['Class']} {row['Confidence']:.2f}", color='red', fontsize=10, backgroundcolor='white')
+    plt.axis('off')
+    plt.show()
+    return results_table
+
+results_table = detect_objects(image_path)
+print(results_table)
