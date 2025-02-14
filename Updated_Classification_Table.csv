@@ -1,0 +1,701 @@
+Floor Plan,Room Name,Architectural Elements,,Board,Cabinet,Chair,Clutter,Countertop,Lamp,Microwave,Paper,Refrigerator,Sink,Sofa,TV/Monitor,Table,Trash Can,Window
+Plan 1,office,"Table, TV/Monitor, Chair, Window, Lamp",0,0,0,1,0,0,1,0,0,0,0,0,1,1,0,1
+Plan 1,conference_room,"Board, Window, Chair, Table",0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+Plan 1,lounge,"Window, Sofa, Table, Cabinet, Chair, Lamp",0,0,1,1,0,0,1,0,0,0,0,1,0,1,0,1
+Plan 1,hallway,"Lamp, Window",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Plan 1,bathroom,"Window, Cabinet, Sink, Trash Can",0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1
+Plan 1,kitchen,"Cabinet, Table, Chair, Window, Microwave, Countertop, Refrigerator",0,0,1,1,0,1,0,1,0,1,0,0,0,1,0,1
+Plan 1,copy_room,"Chair, Cabinet, Window, Table, Paper, Clutter",0,0,1,1,1,0,0,0,1,0,0,0,0,1,0,1
+Plan 2,office,"TV/Monitor, Table, Lamp",0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0
+Plan 2,conference_room,"Board, Window",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Plan 2,lounge,"Table, Chair, Cabinet, Window, Sofa",0,0,1,1,0,0,0,0,0,0,0,1,0,1,0,1
+Plan 2,hallway,Lamp,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Plan 2,bathroom,"Window, Cabinet, Sink, Trash Can",0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1
+Plan 2,kitchen,"Chair, Window, Cabinet, Countertop, Microwave",0,0,1,1,0,1,0,1,0,0,0,0,0,0,0,1
+Plan 2,copy_room,"Chair, Table, Window, Paper, Clutter",0,0,0,1,1,0,0,0,1,0,0,0,0,1,0,1
+Plan 3,office,"Window, Lamp, TV/Monitor, Chair",0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,1
+Plan 3,conference_room,"Table, Chair, TV/Monitor",0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0
+Plan 3,lounge,"Chair, Sofa, Lamp, Window, Table, Cabinet",0,0,1,1,0,0,1,0,0,0,0,1,0,1,0,1
+Plan 3,hallway,"Lamp, Window",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Plan 3,bathroom,"Cabinet, Window, Sink",0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1
+Plan 3,kitchen,"Table, Cabinet, Window, Chair, Refrigerator, Countertop, Microwave",0,0,1,1,0,1,0,1,0,1,0,0,0,1,0,1
+Plan 3,copy_room,"Chair, Window, Table, Paper, Clutter",0,0,0,1,1,0,0,0,1,0,0,0,0,1,0,1
+Plan 4,office,"Table, TV/Monitor, Chair, Lamp, Window",0,0,0,1,0,0,1,0,0,0,0,0,1,1,0,1
+Plan 4,conference_room,"Chair, TV/Monitor, Board",0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Plan 4,lounge,"Chair, Window, Cabinet",0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1
+Plan 4,hallway,"Lamp, Window",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Plan 4,bathroom,"Cabinet, Sink, Trash Can",0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0
+Plan 4,kitchen,"Table, Chair, Refrigerator",0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0
+Plan 4,copy_room,"Table, Paper",0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0
+Plan 5,office,"Chair, Table, TV/Monitor, Lamp, Window",0,0,0,1,0,0,1,0,0,0,0,0,1,1,0,1
+Plan 5,conference_room,"Table, TV/Monitor, Chair, Board, Window",0,1,0,1,0,0,0,0,0,0,0,0,1,1,0,1
+Plan 5,lounge,"Window, Cabinet, Chair",0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1
+Plan 5,hallway,"Window, Lamp",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Plan 5,bathroom,"Window, Cabinet, Sink, Trash Can",0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1
+Plan 5,kitchen,"Chair, Window, Table, Refrigerator, Microwave, Countertop",0,0,0,1,0,1,0,1,0,1,0,0,0,1,0,1
+Plan 5,copy_room,"Window, Table, Chair, Paper",0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,1
+Plan 6,office,"Window, Table, Chair",0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+Plan 6,conference_room,"Board, Chair, Table, Window",0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+Plan 6,lounge,"Sofa, Window, Chair, Table, Cabinet, Lamp",0,0,1,1,0,0,1,0,0,0,0,1,0,1,0,1
+Plan 6,hallway,Lamp,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Plan 6,bathroom,"Sink, Trash Can, Cabinet",0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0
+Plan 6,kitchen,"Table, Chair, Window, Cabinet, Countertop, Refrigerator",0,0,1,1,0,1,0,0,0,1,0,0,0,1,0,1
+Plan 6,copy_room,"Chair, Cabinet, Table, Window, Paper, Clutter",0,0,1,1,1,0,0,0,1,0,0,0,0,1,0,1
+Plan 7,office,"Window, TV/Monitor, Chair, Lamp, Table",0,0,0,1,0,0,1,0,0,0,0,0,1,1,0,1
+Plan 7,conference_room,"Table, Window, Chair, Board",0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+Plan 7,lounge,"Lamp, Table, Chair, Sofa, Cabinet",0,0,1,1,0,0,1,0,0,0,0,1,0,1,0,0
+Plan 7,hallway,"Window, Lamp",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Plan 7,bathroom,"Window, Cabinet, Sink, Trash Can",0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1
+Plan 7,kitchen,"Chair, Cabinet, Window, Table, Countertop, Microwave, Refrigerator",0,0,1,1,0,1,0,1,0,1,0,0,0,1,0,1
+Plan 7,copy_room,"Window, Table, Paper, Clutter",0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,1
+Plan 8,office,"Lamp, Chair, TV/Monitor, Table, Window",0,0,0,1,0,0,1,0,0,0,0,0,1,1,0,1
+Plan 8,conference_room,"Table, TV/Monitor, Window, Chair",0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,1
+Plan 8,lounge,"Lamp, Table, Sofa, Chair, Cabinet, Window",0,0,1,1,0,0,1,0,0,0,0,1,0,1,0,1
+Plan 8,hallway,"Lamp, Window",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Plan 8,bathroom,"Cabinet, Window, Sink",0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1
+Plan 8,kitchen,", Microwave, Refrigerator, Countertop",1,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0
+Plan 8,copy_room,"Chair, Table, Window, Paper",0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,1
+Plan 9,office,"Table, Lamp, TV/Monitor, Window",0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1
+Plan 9,conference_room,"Table, Window, Board",0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+Plan 9,lounge,"Window, Cabinet, Chair, Table, Sofa, Lamp",0,0,1,1,0,0,1,0,0,0,0,1,0,1,0,1
+Plan 9,hallway,"Lamp, Window",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Plan 9,bathroom,"Window, Cabinet, Sink, Cabinet",0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1
+Plan 9,kitchen,"Window, Countertop, Refrigerator",0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1
+Plan 9,copy_room,"Table, Chair, Cabinet, Window, Paper",0,0,1,1,0,0,0,0,1,0,0,0,0,1,0,1
+Plan 10,office,"Chair, Window, Table, TV/Monitor",0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,1
+Plan 10,conference_room,"Board, Window, TV/Monitor, Table, Chair",0,1,0,1,0,0,0,0,0,0,0,0,1,1,0,1
+Plan 10,lounge,"Window, Table, Lamp, Sofa",0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,1
+Plan 10,hallway,"Lamp, Window",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Plan 10,bathroom,"Window, Cabinet, Sink, Cabinet",0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1
+Plan 10,kitchen,"Window, Cabinet, Countertop",0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1
+Plan 10,copy_room,"Table, Chair, Window, Paper, Clutter",0,0,0,1,1,0,0,0,1,0,0,0,0,1,0,1
+Plan 11,office,"TV/Monitor, Chair, Window",0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1
+Plan 11,conference_room,"Board, Window, Chair, TV/Monitor",0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,1
+Plan 11,lounge,"Sofa, Window, Chair",0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1
+Plan 11,hallway,"Lamp, Window",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Plan 11,bathroom,"Window, Cabinet, Sink, Trash Can",0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1
+Plan 11,kitchen,"Table, Chair, Cabinet, Microwave, Refrigerator",0,0,1,1,0,0,0,1,0,1,0,0,0,1,0,0
+Plan 11,copy_room,"Table, Chair, Window, Paper, Clutter",0,0,0,1,1,0,0,0,1,0,0,0,0,1,0,1
+Plan 12,office,"Chair, Lamp, Window",0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1
+Plan 12,conference_room,"TV/Monitor, Table, Board",0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+Plan 12,lounge,"Table, Window, Chair, Cabinet, Lamp, Sofa",0,0,1,1,0,0,1,0,0,0,0,1,0,1,0,1
+Plan 12,hallway,"Window, Lamp",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Plan 12,bathroom,"Cabinet, Window, Sink, Cabinet",0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1
+Plan 12,kitchen,", Refrigerator",1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Plan 12,copy_room,"Chair, Cabinet, Window, Table, Paper",0,0,1,1,0,0,0,0,1,0,0,0,0,1,0,1
+Plan 13,office,"Window, Chair, TV/Monitor",0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1
+Plan 13,conference_room,"Board, TV/Monitor, Table, Chair, Window",0,1,0,1,0,0,0,0,0,0,0,0,1,1,0,1
+Plan 13,lounge,"Cabinet, Chair, Table, Sofa, Window",0,0,1,1,0,0,0,0,0,0,0,1,0,1,0,1
+Plan 13,hallway,"Window, Lamp",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Plan 13,bathroom,"Window, Sink, Trash Can, Cabinet",0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1
+Plan 13,kitchen,"Window, Chair, Table, Cabinet, Countertop, Microwave, Refrigerator",0,0,1,1,0,1,0,1,0,1,0,0,0,1,0,1
+Plan 13,copy_room,"Chair, Window, Cabinet, Paper, Clutter",0,0,1,1,1,0,0,0,1,0,0,0,0,0,0,1
+Plan 14,office,"Window, Table, TV/Monitor, Chair",0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,1
+Plan 14,conference_room,"TV/Monitor, Window, Board, Table",0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1
+Plan 14,lounge,"Chair, Sofa, Cabinet, Lamp, Table",0,0,1,1,0,0,1,0,0,0,0,1,0,1,0,0
+Plan 14,hallway,"Window, Lamp",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Plan 14,bathroom,"Window, Cabinet, Sink, Trash Can, Cabinet",0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1
+Plan 14,kitchen,"Table, Countertop",0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+Plan 14,copy_room,"Chair, Cabinet, Window, Table, Paper, Clutter",0,0,1,1,1,0,0,0,1,0,0,0,0,1,0,1
+Plan 15,office,"Lamp, TV/Monitor, Table, Window",0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1
+Plan 15,conference_room,"TV/Monitor, Table, Chair",0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0
+Plan 15,lounge,"Lamp, Chair, Cabinet, Window",0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,1
+Plan 15,hallway,"Lamp, Window",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Plan 15,bathroom,Sink,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Plan 15,kitchen,"Cabinet, Window, Table, Countertop, Refrigerator, Microwave",0,0,1,0,0,1,0,1,0,1,0,0,0,1,0,1
+Plan 15,copy_room,"Cabinet, Window, Chair, Table, Paper, Clutter",0,0,1,1,1,0,0,0,1,0,0,0,0,1,0,1
+Plan 16,office,"Chair, Table, Lamp, TV/Monitor",0,0,0,1,0,0,1,0,0,0,0,0,1,1,0,0
+Plan 16,conference_room,"Table, Chair, Window, TV/Monitor",0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,1
+Plan 16,lounge,"Window, Table, Chair",0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+Plan 16,hallway,"Lamp, Window",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Plan 16,bathroom,"Window, Sink",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+Plan 16,kitchen,"Window, Refrigerator, Microwave",0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1
+Plan 16,copy_room,"Window, Chair, Paper, Clutter",0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,1
+Plan 17,office,"Table, Window, Chair, TV/Monitor",0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,1
+Plan 17,conference_room,"Board, Chair, TV/Monitor",0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Plan 17,lounge,"Cabinet, Window, Lamp, Chair, Table",0,0,1,1,0,0,1,0,0,0,0,0,0,1,0,1
+Plan 17,hallway,"Window, Lamp",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Plan 17,bathroom,"Cabinet, Window, Sink, Trash Can, Cabinet",0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1
+Plan 17,kitchen,"Window, Table, Chair, Cabinet, Refrigerator, Countertop",0,0,1,1,0,1,0,0,0,1,0,0,0,1,0,1
+Plan 17,copy_room,"Table, Chair, Window, Paper, Clutter",0,0,0,1,1,0,0,0,1,0,0,0,0,1,0,1
+Plan 18,office,"Chair, TV/Monitor, Window, Table",0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,1
+Plan 18,conference_room,"Table, Board",0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Plan 18,lounge,"Window, Lamp, Chair, Table, Sofa",0,0,0,1,0,0,1,0,0,0,0,1,0,1,0,1
+Plan 18,hallway,Lamp,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Plan 18,bathroom,"Cabinet, Sink, Trash Can, Cabinet",0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0
+Plan 18,kitchen,"Chair, Window, Cabinet, Microwave, Countertop",0,0,1,1,0,1,0,1,0,0,0,0,0,0,0,1
+Plan 18,copy_room,"Chair, Window, Paper",0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1
+Plan 19,office,"Chair, Window",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+Plan 19,conference_room,Window,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Plan 19,lounge,"Sofa, Chair, Window, Table, Cabinet",0,0,1,1,0,0,0,0,0,0,0,1,0,1,0,1
+Plan 19,hallway,"Window, Lamp",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Plan 19,bathroom,"Cabinet, Sink",0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+Plan 19,kitchen,"Window, Chair, Microwave, Countertop",0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,1
+Plan 19,copy_room,"Chair, Cabinet, Table, Paper, Clutter",0,0,1,1,1,0,0,0,1,0,0,0,0,1,0,0
+Plan 20,office,"TV/Monitor, Chair, Window, Table",0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,1
+Plan 20,conference_room,"TV/Monitor, Chair, Board",0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Plan 20,lounge,"Chair, Table, Cabinet, Sofa, Lamp",0,0,1,1,0,0,1,0,0,0,0,1,0,1,0,0
+Plan 20,hallway,"Lamp, Window",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Plan 20,bathroom,"Cabinet, Window, Sink",0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1
+Plan 20,kitchen,"Table, Cabinet, Chair, Window, Refrigerator",0,0,1,1,0,0,0,0,0,1,0,0,0,1,0,1
+Plan 20,copy_room,"Table, Window, Chair, Cabinet, Paper",0,0,1,1,0,0,0,0,1,0,0,0,0,1,0,1
+Plan 21,office,"Chair, Table, Lamp, TV/Monitor, Window",0,0,0,1,0,0,1,0,0,0,0,0,1,1,0,1
+Plan 21,conference_room,"Board, Table",0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Plan 21,lounge,"Chair, Table, Lamp, Window, Sofa, Cabinet",0,0,1,1,0,0,1,0,0,0,0,1,0,1,0,1
+Plan 21,hallway,Window,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Plan 21,bathroom,"Cabinet, Window, Sink, Trash Can, Cabinet",0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1
+Plan 21,kitchen,"Table, Cabinet, Chair, Countertop, Microwave, Refrigerator",0,0,1,1,0,1,0,1,0,1,0,0,0,1,0,0
+Plan 21,copy_room,"Cabinet, Table, Paper",0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0
+Plan 22,office,"Chair, Window, TV/Monitor, Lamp",0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,1
+Plan 22,conference_room,"Chair, Board, TV/Monitor",0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Plan 22,lounge,"Sofa, Lamp, Chair, Table",0,0,0,1,0,0,1,0,0,0,0,1,0,1,0,0
+Plan 22,hallway,Window,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Plan 22,bathroom,"Window, Cabinet, Sink, Trash Can",0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1
+Plan 22,kitchen,"Chair, Cabinet, Countertop, Refrigerator",0,0,1,1,0,1,0,0,0,1,0,0,0,0,0,0
+Plan 22,copy_room,"Chair, Window, Paper",0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1
+Plan 23,office,"Lamp, Table, TV/Monitor, Window",0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1
+Plan 23,conference_room,"Table, Window",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+Plan 23,lounge,"Table, Cabinet, Sofa, Chair",0,0,1,1,0,0,0,0,0,0,0,1,0,1,0,0
+Plan 23,hallway,"Lamp, Window",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Plan 23,bathroom,"Window, Cabinet, Sink, Trash Can",0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1
+Plan 23,kitchen,"Window, Countertop, Microwave",0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1
+Plan 23,copy_room,"Window, Chair, Table, Paper, Clutter",0,0,0,1,1,0,0,0,1,0,0,0,0,1,0,1
+Plan 24,office,"Lamp, TV/Monitor, Window",0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1
+Plan 24,conference_room,"Table, Chair, Window, TV/Monitor, Board",0,1,0,1,0,0,0,0,0,0,0,0,1,1,0,1
+Plan 24,lounge,"Window, Cabinet, Sofa",0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1
+Plan 24,hallway,Lamp,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Plan 24,bathroom,"Window, Sink, Trash Can, Cabinet",0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1
+Plan 24,kitchen,"Table, Chair, Cabinet, Countertop, Refrigerator, Microwave",0,0,1,1,0,1,0,1,0,1,0,0,0,1,0,0
+Plan 24,copy_room,"Table, Paper",0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0
+Plan 25,office,"Lamp, Window, Table, TV/Monitor",0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1
+Plan 25,conference_room,"Table, Chair, TV/Monitor",0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0
+Plan 25,lounge,"Chair, Cabinet, Sofa",0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0
+Plan 25,hallway,"Lamp, Window",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Plan 25,bathroom,"Sink, Trash Can",0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+Plan 25,kitchen,"Window, Table, Cabinet, Microwave",0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,1
+Plan 25,copy_room,"Chair, Table, Window, Paper",0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,1
+Plan 26,office,"Lamp, Chair, TV/Monitor",0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0
+Plan 26,conference_room,"Board, Chair, TV/Monitor",0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Plan 26,lounge,"Window, Table, Lamp, Sofa",0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,1
+Plan 26,hallway,"Window, Lamp",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Plan 26,bathroom,"Cabinet, Window, Sink, Trash Can, Cabinet",0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1
+Plan 26,kitchen,"Window, Table, Chair, Microwave, Refrigerator",0,0,0,1,0,0,0,1,0,1,0,0,0,1,0,1
+Plan 26,copy_room,"Window, Chair, Table, Paper",0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,1
+Plan 27,office,"Table, TV/Monitor, Lamp, Chair, Window",0,0,0,1,0,0,1,0,0,0,0,0,1,1,0,1
+Plan 27,conference_room,"Window, Board, Table",0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+Plan 27,lounge,"Cabinet, Sofa, Lamp, Chair, Window",0,0,1,1,0,0,1,0,0,0,0,1,0,0,0,1
+Plan 27,hallway,"Lamp, Window",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Plan 27,bathroom,"Window, Cabinet, Sink, Cabinet",0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1
+Plan 27,kitchen,"Window, Chair, Table, Microwave, Refrigerator",0,0,0,1,0,0,0,1,0,1,0,0,0,1,0,1
+Plan 27,copy_room,"Chair, Table, Cabinet, Paper",0,0,1,1,0,0,0,0,1,0,0,0,0,1,0,0
+Plan 28,office,"TV/Monitor, Table, Lamp, Window, Chair",0,0,0,1,0,0,1,0,0,0,0,0,1,1,0,1
+Plan 28,conference_room,"Table, Board, Chair",0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+Plan 28,lounge,"Chair, Sofa, Cabinet, Table",0,0,1,1,0,0,0,0,0,0,0,1,0,1,0,0
+Plan 28,hallway,"Window, Lamp",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Plan 28,bathroom,"Cabinet, Window, Sink, Trash Can, Cabinet",0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1
+Plan 28,kitchen,"Chair, Window, Table, Refrigerator",0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,1
+Plan 28,copy_room,"Cabinet, Window, Chair, Table, Paper",0,0,1,1,0,0,0,0,1,0,0,0,0,1,0,1
+Plan 29,office,"Chair, Table, TV/Monitor, Window",0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,1
+Plan 29,conference_room,"Table, Chair, Window, Board",0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+Plan 29,lounge,"Lamp, Sofa, Cabinet",0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0
+Plan 29,hallway,"Lamp, Window",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Plan 29,bathroom,"Window, Sink, Trash Can, Cabinet",0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1
+Plan 29,kitchen,"Chair, Cabinet, Table, Countertop, Microwave, Refrigerator",0,0,1,1,0,1,0,1,0,1,0,0,0,1,0,0
+Plan 29,copy_room,"Table, Paper, Clutter",0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0
+Plan 30,office,"Lamp, TV/Monitor, Table, Chair",0,0,0,1,0,0,1,0,0,0,0,0,1,1,0,0
+Plan 30,conference_room,"Table, Window, Chair",0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+Plan 30,lounge,"Lamp, Chair",0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+Plan 30,hallway,"Window, Lamp",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Plan 30,bathroom,"Window, Cabinet, Sink",0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1
+Plan 30,kitchen,"Window, Table, Chair, Countertop",0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,1
+Plan 30,copy_room,"Cabinet, Window, Chair, Table, Paper",0,0,1,1,0,0,0,0,1,0,0,0,0,1,0,1
+Plan 31,office,"Table, TV/Monitor, Lamp",0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0
+Plan 31,conference_room,"Chair, Window, Board",0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+Plan 31,lounge,"Lamp, Table",0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+Plan 31,hallway,Window,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Plan 31,bathroom,"Cabinet, Window, Sink",0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1
+Plan 31,kitchen,"Chair, Table, Window, Cabinet, Microwave, Countertop, Refrigerator",0,0,1,1,0,1,0,1,0,1,0,0,0,1,0,1
+Plan 31,copy_room,"Chair, Table, Paper, Clutter",0,0,0,1,1,0,0,0,1,0,0,0,0,1,0,0
+Plan 32,office,"TV/Monitor, Chair, Window, Lamp",0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,1
+Plan 32,conference_room,"Table, Chair, Board",0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+Plan 32,lounge,"Table, Window, Cabinet",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1
+Plan 32,hallway,Lamp,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Plan 32,bathroom,"Cabinet, Window, Sink, Cabinet",0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1
+Plan 32,kitchen,"Cabinet, Window, Refrigerator, Countertop, Microwave",0,0,1,0,0,1,0,1,0,1,0,0,0,0,0,1
+Plan 32,copy_room,"Window, Chair, Cabinet, Table, Paper, Clutter",0,0,1,1,1,0,0,0,1,0,0,0,0,1,0,1
+Plan 33,office,"Lamp, Table",0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+Plan 33,conference_room,"Table, TV/Monitor, Window, Chair, Board",0,1,0,1,0,0,0,0,0,0,0,0,1,1,0,1
+Plan 33,lounge,"Chair, Table",0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+Plan 33,hallway,"Window, Lamp",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Plan 33,bathroom,"Window, Cabinet, Sink, Trash Can",0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1
+Plan 33,kitchen,"Chair, Window, Refrigerator",0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1
+Plan 33,copy_room,"Window, Table, Paper, Clutter",0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,1
+Plan 34,office,"TV/Monitor, Window, Chair",0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1
+Plan 34,conference_room,"Board, TV/Monitor, Chair, Window, Table",0,1,0,1,0,0,0,0,0,0,0,0,1,1,0,1
+Plan 34,lounge,"Table, Sofa, Cabinet, Window, Lamp",0,0,1,0,0,0,1,0,0,0,0,1,0,1,0,1
+Plan 34,hallway,"Window, Lamp",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Plan 34,bathroom,"Window, Cabinet, Sink, Trash Can",0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1
+Plan 34,kitchen,"Cabinet, Table, Chair, Window, Microwave",0,0,1,1,0,0,0,1,0,0,0,0,0,1,0,1
+Plan 34,copy_room,"Window, Chair, Paper, Clutter",0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,1
+Plan 35,office,"Table, Window, TV/Monitor, Chair",0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,1
+Plan 35,conference_room,"Window, Board",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Plan 35,lounge,"Window, Lamp, Cabinet",0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1
+Plan 35,hallway,"Lamp, Window",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Plan 35,bathroom,"Cabinet, Sink",0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+Plan 35,kitchen,"Window, Cabinet, Microwave, Countertop, Refrigerator",0,0,1,0,0,1,0,1,0,1,0,0,0,0,0,1
+Plan 35,copy_room,"Table, Chair, Window, Paper, Clutter",0,0,0,1,1,0,0,0,1,0,0,0,0,1,0,1
+Plan 36,office,"TV/Monitor, Table, Window, Lamp, Chair",0,0,0,1,0,0,1,0,0,0,0,0,1,1,0,1
+Plan 36,conference_room,"TV/Monitor, Table, Board",0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+Plan 36,lounge,"Table, Cabinet, Window, Chair, Lamp, Sofa",0,0,1,1,0,0,1,0,0,0,0,1,0,1,0,1
+Plan 36,hallway,"Window, Lamp",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Plan 36,bathroom,"Cabinet, Window, Sink, Trash Can",0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1
+Plan 36,kitchen,"Window, Cabinet, Countertop, Microwave",0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1
+Plan 36,copy_room,"Cabinet, Window, Chair, Table, Paper, Clutter",0,0,1,1,1,0,0,0,1,0,0,0,0,1,0,1
+Plan 37,office,"TV/Monitor, Window, Table, Lamp, Chair",0,0,0,1,0,0,1,0,0,0,0,0,1,1,0,1
+Plan 37,conference_room,"TV/Monitor, Table, Board, Chair, Window",0,1,0,1,0,0,0,0,0,0,0,0,1,1,0,1
+Plan 37,lounge,"Window, Lamp, Table, Cabinet, Chair, Sofa",0,0,1,1,0,0,1,0,0,0,0,1,0,1,0,1
+Plan 37,hallway,"Lamp, Window",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Plan 37,bathroom,"Sink, Trash Can, Cabinet",0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0
+Plan 37,kitchen,"Table, Window, Refrigerator",0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+Plan 37,copy_room,"Window, Table, Chair, Paper, Clutter",0,0,0,1,1,0,0,0,1,0,0,0,0,1,0,1
+Plan 38,office,"Chair, Lamp, TV/Monitor, Table, Window",0,0,0,1,0,0,1,0,0,0,0,0,1,1,0,1
+Plan 38,conference_room,"Table, Board, Chair, Window",0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+Plan 38,lounge,"Table, Chair, Lamp, Sofa",0,0,0,1,0,0,1,0,0,0,0,1,0,1,0,0
+Plan 38,hallway,"Lamp, Window",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Plan 38,bathroom,"Cabinet, Window, Sink, Cabinet",0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1
+Plan 38,kitchen,"Window, Chair, Table, Cabinet, Countertop",0,0,1,1,0,1,0,0,0,0,0,0,0,1,0,1
+Plan 38,copy_room,"Cabinet, Table, Chair, Window, Paper, Clutter",0,0,1,1,1,0,0,0,1,0,0,0,0,1,0,1
+Plan 39,office,"Chair, Window, Lamp, Table, TV/Monitor",0,0,0,1,0,0,1,0,0,0,0,0,1,1,0,1
+Plan 39,conference_room,"TV/Monitor, Table, Board, Window",0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1
+Plan 39,lounge,"Lamp, Table, Chair, Sofa, Cabinet, Window",0,0,1,1,0,0,1,0,0,0,0,1,0,1,0,1
+Plan 39,hallway,"Lamp, Window",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Plan 39,bathroom,"Cabinet, Sink",0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+Plan 39,kitchen,"Chair, Refrigerator, Countertop",0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0
+Plan 39,copy_room,"Table, Window, Chair, Paper",0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,1
+Plan 40,office,"Lamp, Chair, TV/Monitor",0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0
+Plan 40,conference_room,"Table, Board, Chair, TV/Monitor, Window",0,1,0,1,0,0,0,0,0,0,0,0,1,1,0,1
+Plan 40,lounge,"Cabinet, Sofa, Window",0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1
+Plan 40,hallway,"Lamp, Window",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Plan 40,bathroom,"Window, Sink",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+Plan 40,kitchen,"Table, Chair, Countertop, Microwave, Refrigerator",0,0,0,1,0,1,0,1,0,1,0,0,0,1,0,0
+Plan 40,copy_room,"Window, Table, Paper",0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1
+Plan 41,office,"Table, Window, Chair",0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+Plan 41,conference_room,"Chair, TV/Monitor, Window",0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1
+Plan 41,lounge,"Lamp, Cabinet, Chair, Table, Sofa, Window",0,0,1,1,0,0,1,0,0,0,0,1,0,1,0,1
+Plan 41,hallway,"Lamp, Window",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Plan 41,bathroom,"Cabinet, Window, Sink, Cabinet",0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1
+Plan 41,kitchen,"Cabinet, Window, Chair, Table, Countertop, Microwave",0,0,1,1,0,1,0,1,0,0,0,0,0,1,0,1
+Plan 41,copy_room,"Window, Chair, Table, Paper, Clutter",0,0,0,1,1,0,0,0,1,0,0,0,0,1,0,1
+Plan 42,office,"Chair, Table, Lamp, TV/Monitor, Window",0,0,0,1,0,0,1,0,0,0,0,0,1,1,0,1
+Plan 42,conference_room,"TV/Monitor, Board, Window, Table",0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1
+Plan 42,lounge,"Table, Sofa, Window, Cabinet, Lamp",0,0,1,0,0,0,1,0,0,0,0,1,0,1,0,1
+Plan 42,hallway,Window,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Plan 42,bathroom,"Cabinet, Sink, Trash Can, Cabinet",0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0
+Plan 42,kitchen,"Chair, Window, Table, Cabinet, Microwave, Countertop",0,0,1,1,0,1,0,1,0,0,0,0,0,1,0,1
+Plan 42,copy_room,"Window, Cabinet, Table, Chair, Paper",0,0,1,1,0,0,0,0,1,0,0,0,0,1,0,1
+Plan 43,office,"Chair, TV/Monitor, Lamp",0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0
+Plan 43,conference_room,"Chair, Window, TV/Monitor, Board",0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,1
+Plan 43,lounge,"Window, Chair",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+Plan 43,hallway,"Window, Lamp",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Plan 43,bathroom,"Cabinet, Sink, Trash Can",0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0
+Plan 43,kitchen,"Table, Window, Refrigerator",0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+Plan 43,copy_room,"Cabinet, Window, Paper, Clutter",0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,1
+Plan 44,office,"Table, Lamp, Window, TV/Monitor, Chair",0,0,0,1,0,0,1,0,0,0,0,0,1,1,0,1
+Plan 44,conference_room,"Board, Window",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Plan 44,lounge,"Sofa, Window, Chair, Lamp, Table",0,0,0,1,0,0,1,0,0,0,0,1,0,1,0,1
+Plan 44,hallway,Window,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Plan 44,bathroom,"Cabinet, Window, Sink, Cabinet",0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1
+Plan 44,kitchen,"Window, Cabinet, Microwave, Countertop, Refrigerator",0,0,1,0,0,1,0,1,0,1,0,0,0,0,0,1
+Plan 44,copy_room,"Table, Chair, Paper, Clutter",0,0,0,1,1,0,0,0,1,0,0,0,0,1,0,0
+Plan 45,office,"Lamp, Chair, Table, TV/Monitor, Window",0,0,0,1,0,0,1,0,0,0,0,0,1,1,0,1
+Plan 45,conference_room,"TV/Monitor, Window",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+Plan 45,lounge,"Lamp, Chair, Sofa, Table, Window",0,0,0,1,0,0,1,0,0,0,0,1,0,1,0,1
+Plan 45,hallway,"Window, Lamp",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Plan 45,bathroom,"Sink, Trash Can, Cabinet",0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0
+Plan 45,kitchen,"Chair, Countertop",0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+Plan 45,copy_room,"Cabinet, Chair, Table, Paper, Clutter",0,0,1,1,1,0,0,0,1,0,0,0,0,1,0,0
+Plan 46,office,"TV/Monitor, Chair, Window, Lamp",0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,1
+Plan 46,conference_room,"TV/Monitor, Table, Board",0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+Plan 46,lounge,"Sofa, Cabinet, Table, Lamp, Chair",0,0,1,1,0,0,1,0,0,0,0,1,0,1,0,0
+Plan 46,hallway,Lamp,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Plan 46,bathroom,"Window, Cabinet, Sink, Trash Can",0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1
+Plan 46,kitchen,"Table, Window, Cabinet, Microwave, Refrigerator, Countertop",0,0,1,0,0,1,0,1,0,1,0,0,0,1,0,1
+Plan 46,copy_room,"Chair, Paper",0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+Plan 47,office,"Chair, Table, Lamp, Window, TV/Monitor",0,0,0,1,0,0,1,0,0,0,0,0,1,1,0,1
+Plan 47,conference_room,"Table, Chair, Board, Window, TV/Monitor",0,1,0,1,0,0,0,0,0,0,0,0,1,1,0,1
+Plan 47,lounge,"Window, Sofa, Lamp, Chair, Cabinet",0,0,1,1,0,0,1,0,0,0,0,1,0,0,0,1
+Plan 47,hallway,"Window, Lamp",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Plan 47,bathroom,"Window, Cabinet, Sink, Cabinet",0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1
+Plan 47,kitchen,"Chair, Window, Cabinet, Refrigerator, Countertop",0,0,1,1,0,1,0,0,0,1,0,0,0,0,0,1
+Plan 47,copy_room,"Table, Window, Paper, Clutter",0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,1
+Plan 48,office,"Table, Lamp, TV/Monitor, Chair, Window",0,0,0,1,0,0,1,0,0,0,0,0,1,1,0,1
+Plan 48,conference_room,"Table, Window, TV/Monitor, Chair, Board",0,1,0,1,0,0,0,0,0,0,0,0,1,1,0,1
+Plan 48,lounge,"Window, Cabinet",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Plan 48,hallway,"Window, Lamp",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Plan 48,bathroom,"Window, Sink, Trash Can",0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+Plan 48,kitchen,"Window, Chair, Cabinet, Table, Microwave, Refrigerator, Countertop",0,0,1,1,0,1,0,1,0,1,0,0,0,1,0,1
+Plan 48,copy_room,"Window, Chair, Cabinet, Paper, Clutter",0,0,1,1,1,0,0,0,1,0,0,0,0,0,0,1
+Plan 49,office,"Table, Chair",0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+Plan 49,conference_room,"TV/Monitor, Board, Chair, Window",0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,1
+Plan 49,lounge,Cabinet,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Plan 49,hallway,"Lamp, Window",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Plan 49,bathroom,"Cabinet, Sink, Trash Can",0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0
+Plan 49,kitchen,"Table, Window, Refrigerator",0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+Plan 49,copy_room,"Cabinet, Table, Window, Chair, Paper",0,0,1,1,0,0,0,0,1,0,0,0,0,1,0,1
+Plan 50,office,"Window, Lamp, TV/Monitor, Table",0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1
+Plan 50,conference_room,"Table, Board, TV/Monitor",0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+Plan 50,lounge,"Window, Sofa, Table, Chair",0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,1
+Plan 50,hallway,"Window, Lamp",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Plan 50,bathroom,"Cabinet, Window, Sink, Trash Can",0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1
+Plan 50,kitchen,"Chair, Cabinet, Table, Countertop, Microwave, Refrigerator",0,0,1,1,0,1,0,1,0,1,0,0,0,1,0,0
+Plan 50,copy_room,"Chair, Cabinet, Table, Paper, Clutter",0,0,1,1,1,0,0,0,1,0,0,0,0,1,0,0
+Plan 51,office,"Chair, TV/Monitor, Window, Lamp",0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,1
+Plan 51,conference_room,"TV/Monitor, Table, Board, Chair",0,1,0,1,0,0,0,0,0,0,0,0,1,1,0,0
+Plan 51,lounge,"Window, Cabinet, Table, Chair",0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,1
+Plan 51,hallway,"Window, Lamp",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Plan 51,bathroom,"Cabinet, Sink",0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+Plan 51,kitchen,"Table, Chair, Window, Cabinet, Refrigerator, Microwave",0,0,1,1,0,0,0,1,0,1,0,0,0,1,0,1
+Plan 51,copy_room,"Chair, Window, Table, Paper",0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,1
+Plan 52,office,"Window, Lamp, Chair",0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1
+Plan 52,conference_room,"TV/Monitor, Chair, Board",0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Plan 52,lounge,"Cabinet, Lamp, Window, Sofa, Chair",0,0,1,1,0,0,1,0,0,0,0,1,0,0,0,1
+Plan 52,hallway,Window,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Plan 52,bathroom,"Window, Sink",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+Plan 52,kitchen,"Cabinet, Table, Window, Microwave, Countertop",0,0,1,0,0,1,0,1,0,0,0,0,0,1,0,1
+Plan 52,copy_room,"Window, Chair, Paper",0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1
+Plan 53,office,"Window, Table, TV/Monitor, Chair",0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,1
+Plan 53,conference_room,"TV/Monitor, Table, Window, Board",0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1
+Plan 53,lounge,"Window, Table, Lamp, Cabinet, Chair, Sofa",0,0,1,1,0,0,1,0,0,0,0,1,0,1,0,1
+Plan 53,hallway,"Window, Lamp",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Plan 53,bathroom,"Cabinet, Sink, Trash Can, Cabinet",0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0
+Plan 53,kitchen,"Chair, Table, Cabinet, Countertop, Microwave, Refrigerator",0,0,1,1,0,1,0,1,0,1,0,0,0,1,0,0
+Plan 53,copy_room,"Chair, Table, Paper, Clutter",0,0,0,1,1,0,0,0,1,0,0,0,0,1,0,0
+Plan 54,office,"Table, Window, Lamp",0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1
+Plan 54,conference_room,"Window, Table, Board, Chair, TV/Monitor",0,1,0,1,0,0,0,0,0,0,0,0,1,1,0,1
+Plan 54,lounge,"Window, Table, Cabinet",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1
+Plan 54,hallway,"Window, Lamp",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Plan 54,bathroom,"Cabinet, Window, Sink, Trash Can",0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1
+Plan 54,kitchen,"Window, Chair, Cabinet, Microwave, Refrigerator",0,0,1,1,0,0,0,1,0,1,0,0,0,0,0,1
+Plan 54,copy_room,"Chair, Window, Table, Cabinet, Paper, Clutter",0,0,1,1,1,0,0,0,1,0,0,0,0,1,0,1
+Plan 55,office,"TV/Monitor, Lamp, Window, Chair",0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,1
+Plan 55,conference_room,"Chair, Board, Table, Window",0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+Plan 55,lounge,"Cabinet, Table, Lamp, Sofa, Window, Chair",0,0,1,1,0,0,1,0,0,0,0,1,0,1,0,1
+Plan 55,hallway,"Window, Lamp",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Plan 55,bathroom,"Cabinet, Window, Sink, Cabinet",0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1
+Plan 55,kitchen,"Cabinet, Chair, Window, Table, Countertop, Refrigerator, Microwave",0,0,1,1,0,1,0,1,0,1,0,0,0,1,0,1
+Plan 55,copy_room,"Table, Window, Paper",0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1
+Plan 56,office,"Lamp, Window, Chair, TV/Monitor, Table",0,0,0,1,0,0,1,0,0,0,0,0,1,1,0,1
+Plan 56,conference_room,"Board, Window",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Plan 56,lounge,"Table, Cabinet, Window, Sofa, Lamp",0,0,1,0,0,0,1,0,0,0,0,1,0,1,0,1
+Plan 56,hallway,Window,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Plan 56,bathroom,"Window, Cabinet, Sink, Trash Can, Cabinet",0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1
+Plan 56,kitchen,"Window, Cabinet, Table, Chair, Countertop",0,0,1,1,0,1,0,0,0,0,0,0,0,1,0,1
+Plan 56,copy_room,"Window, Table, Paper",0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1
+Plan 57,office,"Chair, TV/Monitor, Table, Window, Lamp",0,0,0,1,0,0,1,0,0,0,0,0,1,1,0,1
+Plan 57,conference_room,"Board, Chair, Table, Window",0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+Plan 57,lounge,"Window, Chair",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+Plan 57,hallway,"Window, Lamp",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Plan 57,bathroom,"Window, Sink, Cabinet",0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1
+Plan 57,kitchen,"Table, Window, Cabinet, Chair, Microwave, Countertop",0,0,1,1,0,1,0,1,0,0,0,0,0,1,0,1
+Plan 57,copy_room,"Cabinet, Window, Chair, Table, Paper, Clutter",0,0,1,1,1,0,0,0,1,0,0,0,0,1,0,1
+Plan 58,office,"Window, Table, TV/Monitor",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1
+Plan 58,conference_room,"Window, Board, Chair",0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+Plan 58,lounge,"Table, Window, Chair, Cabinet, Lamp, Sofa",0,0,1,1,0,0,1,0,0,0,0,1,0,1,0,1
+Plan 58,hallway,Lamp,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Plan 58,bathroom,"Window, Cabinet, Sink, Trash Can, Cabinet",0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1
+Plan 58,kitchen,"Cabinet, Table, Refrigerator, Microwave",0,0,1,0,0,0,0,1,0,1,0,0,0,1,0,0
+Plan 58,copy_room,"Chair, Cabinet, Window, Table, Paper",0,0,1,1,0,0,0,0,1,0,0,0,0,1,0,1
+Plan 59,office,"Lamp, TV/Monitor, Window, Table, Chair",0,0,0,1,0,0,1,0,0,0,0,0,1,1,0,1
+Plan 59,conference_room,Chair,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Plan 59,lounge,"Cabinet, Lamp, Sofa",0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0
+Plan 59,hallway,"Window, Lamp",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Plan 59,bathroom,"Window, Cabinet, Sink, Trash Can, Cabinet",0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1
+Plan 59,kitchen,"Cabinet, Chair, Microwave",0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0
+Plan 59,copy_room,"Window, Paper",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+Plan 60,office,"Chair, Table, Lamp, TV/Monitor, Window",0,0,0,1,0,0,1,0,0,0,0,0,1,1,0,1
+Plan 60,conference_room,"Table, Chair, TV/Monitor, Window, Board",0,1,0,1,0,0,0,0,0,0,0,0,1,1,0,1
+Plan 60,lounge,Lamp,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Plan 60,hallway,"Window, Lamp",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Plan 60,bathroom,"Cabinet, Window, Sink, Trash Can, Cabinet",0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1
+Plan 60,kitchen,"Cabinet, Table, Window, Chair, Refrigerator",0,0,1,1,0,0,0,0,0,1,0,0,0,1,0,1
+Plan 60,copy_room,"Window, Table, Cabinet, Chair, Paper, Clutter",0,0,1,1,1,0,0,0,1,0,0,0,0,1,0,1
+Plan 61,office,"Lamp, Table, Chair, Window",0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,1
+Plan 61,conference_room,"Board, TV/Monitor, Chair, Table, Window",0,1,0,1,0,0,0,0,0,0,0,0,1,1,0,1
+Plan 61,lounge,"Cabinet, Window, Chair",0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1
+Plan 61,hallway,"Window, Lamp",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Plan 61,bathroom,"Cabinet, Window, Sink, Trash Can",0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1
+Plan 61,kitchen,"Chair, Table, Refrigerator, Microwave",0,0,0,1,0,0,0,1,0,1,0,0,0,1,0,0
+Plan 61,copy_room,"Chair, Window, Table, Paper, Clutter",0,0,0,1,1,0,0,0,1,0,0,0,0,1,0,1
+Plan 62,office,"Table, TV/Monitor, Chair",0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0
+Plan 62,conference_room,"Board, TV/Monitor, Window",0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+Plan 62,lounge,"Lamp, Cabinet, Chair, Window, Sofa",0,0,1,1,0,0,1,0,0,0,0,1,0,0,0,1
+Plan 62,hallway,"Lamp, Window",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Plan 62,bathroom,"Window, Cabinet, Sink, Trash Can, Cabinet",0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1
+Plan 62,kitchen,"Table, Cabinet, Countertop",0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0
+Plan 62,copy_room,"Window, Chair, Cabinet, Table, Paper",0,0,1,1,0,0,0,0,1,0,0,0,0,1,0,1
+Plan 63,office,"Window, Chair, Table, TV/Monitor, Lamp",0,0,0,1,0,0,1,0,0,0,0,0,1,1,0,1
+Plan 63,conference_room,"Table, Chair, Window, Board",0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+Plan 63,lounge,"Sofa, Cabinet, Lamp, Chair, Window, Table",0,0,1,1,0,0,1,0,0,0,0,1,0,1,0,1
+Plan 63,hallway,"Lamp, Window",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Plan 63,bathroom,"Cabinet, Sink",0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+Plan 63,kitchen,"Table, Window, Cabinet, Chair, Microwave, Refrigerator, Countertop",0,0,1,1,0,1,0,1,0,1,0,0,0,1,0,1
+Plan 63,copy_room,"Table, Chair, Paper",0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0
+Plan 64,office,"TV/Monitor, Window, Lamp, Table, Chair",0,0,0,1,0,0,1,0,0,0,0,0,1,1,0,1
+Plan 64,conference_room,"Board, TV/Monitor, Table, Window, Chair",0,1,0,1,0,0,0,0,0,0,0,0,1,1,0,1
+Plan 64,lounge,"Sofa, Table, Cabinet",0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0
+Plan 64,hallway,"Lamp, Window",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Plan 64,bathroom,"Sink, Cabinet",0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+Plan 64,kitchen,"Cabinet, Chair, Table, Refrigerator",0,0,1,1,0,0,0,0,0,1,0,0,0,1,0,0
+Plan 64,copy_room,"Table, Window, Chair, Paper",0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,1
+Plan 65,office,"Chair, TV/Monitor, Window, Table, Lamp",0,0,0,1,0,0,1,0,0,0,0,0,1,1,0,1
+Plan 65,conference_room,"Window, Table, Chair, TV/Monitor, Board",0,1,0,1,0,0,0,0,0,0,0,0,1,1,0,1
+Plan 65,lounge,"Table, Sofa, Chair, Cabinet, Window, Lamp",0,0,1,1,0,0,1,0,0,0,0,1,0,1,0,1
+Plan 65,hallway,"Window, Lamp",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Plan 65,bathroom,"Cabinet, Sink",0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+Plan 65,kitchen,"Window, Table, Chair, Countertop, Refrigerator, Microwave",0,0,0,1,0,1,0,1,0,1,0,0,0,1,0,1
+Plan 65,copy_room,"Table, Window, Paper, Clutter",0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,1
+Plan 66,office,"Table, Chair, Lamp, Window, TV/Monitor",0,0,0,1,0,0,1,0,0,0,0,0,1,1,0,1
+Plan 66,conference_room,"Chair, TV/Monitor",0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Plan 66,lounge,"Chair, Lamp, Cabinet, Sofa, Table, Window",0,0,1,1,0,0,1,0,0,0,0,1,0,1,0,1
+Plan 66,hallway,"Window, Lamp",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Plan 66,bathroom,"Window, Cabinet, Sink, Trash Can",0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1
+Plan 66,kitchen,"Chair, Window, Table, Cabinet, Countertop, Microwave",0,0,1,1,0,1,0,1,0,0,0,0,0,1,0,1
+Plan 66,copy_room,"Paper, Clutter",0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+Plan 67,office,"Window, TV/Monitor, Chair, Lamp",0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,1
+Plan 67,conference_room,"TV/Monitor, Window",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+Plan 67,lounge,"Chair, Lamp, Cabinet",0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0
+Plan 67,hallway,"Lamp, Window",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Plan 67,bathroom,"Window, Cabinet, Sink, Trash Can",0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1
+Plan 67,kitchen,"Table, Chair, Cabinet, Refrigerator, Microwave, Countertop",0,0,1,1,0,1,0,1,0,1,0,0,0,1,0,0
+Plan 67,copy_room,"Table, Chair, Paper, Clutter",0,0,0,1,1,0,0,0,1,0,0,0,0,1,0,0
+Plan 68,office,"Window, Lamp, Chair",0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1
+Plan 68,conference_room,"Table, Chair, TV/Monitor",0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0
+Plan 68,lounge,"Sofa, Lamp, Cabinet, Table, Window, Chair",0,0,1,1,0,0,1,0,0,0,0,1,0,1,0,1
+Plan 68,hallway,"Lamp, Window",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Plan 68,bathroom,"Cabinet, Window, Sink, Cabinet",0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1
+Plan 68,kitchen,"Table, Refrigerator, Countertop",0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0
+Plan 68,copy_room,"Chair, Table, Window, Paper, Clutter",0,0,0,1,1,0,0,0,1,0,0,0,0,1,0,1
+Plan 69,office,"Table, Window, Lamp, Chair, TV/Monitor",0,0,0,1,0,0,1,0,0,0,0,0,1,1,0,1
+Plan 69,conference_room,"Window, TV/Monitor, Table, Board, Chair",0,1,0,1,0,0,0,0,0,0,0,0,1,1,0,1
+Plan 69,lounge,"Lamp, Window, Cabinet, Table",0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,1
+Plan 69,hallway,Window,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Plan 69,bathroom,"Window, Cabinet, Sink, Cabinet",0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1
+Plan 69,kitchen,"Window, Chair, Table, Microwave, Refrigerator, Countertop",0,0,0,1,0,1,0,1,0,1,0,0,0,1,0,1
+Plan 69,copy_room,"Table, Chair, Window, Paper",0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,1
+Plan 70,office,"Chair, Window, TV/Monitor, Table",0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,1
+Plan 70,conference_room,"Board, TV/Monitor, Table",0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+Plan 70,lounge,"Chair, Table, Lamp, Cabinet, Window",0,0,1,1,0,0,1,0,0,0,0,0,0,1,0,1
+Plan 70,hallway,"Lamp, Window",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Plan 70,bathroom,"Window, Cabinet, Sink",0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1
+Plan 70,kitchen,"Table, Chair, Countertop, Refrigerator, Microwave",0,0,0,1,0,1,0,1,0,1,0,0,0,1,0,0
+Plan 70,copy_room,"Window, Table, Chair, Cabinet, Paper, Clutter",0,0,1,1,1,0,0,0,1,0,0,0,0,1,0,1
+Plan 71,office,"Lamp, Window, Chair, TV/Monitor",0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,1
+Plan 71,conference_room,"Board, Table, Window, Chair, TV/Monitor",0,1,0,1,0,0,0,0,0,0,0,0,1,1,0,1
+Plan 71,lounge,"Table, Lamp, Sofa, Cabinet",0,0,1,0,0,0,1,0,0,0,0,1,0,1,0,0
+Plan 71,hallway,"Lamp, Window",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Plan 71,bathroom,"Window, Cabinet, Sink, Trash Can, Cabinet",0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1
+Plan 71,kitchen,"Cabinet, Chair, Refrigerator",0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0
+Plan 71,copy_room,"Chair, Table, Cabinet, Window, Paper, Clutter",0,0,1,1,1,0,0,0,1,0,0,0,0,1,0,1
+Plan 72,office,"Chair, Window, TV/Monitor, Lamp, Table",0,0,0,1,0,0,1,0,0,0,0,0,1,1,0,1
+Plan 72,conference_room,"Table, TV/Monitor, Board, Window, Chair",0,1,0,1,0,0,0,0,0,0,0,0,1,1,0,1
+Plan 72,lounge,"Lamp, Window, Sofa, Cabinet, Chair, Table",0,0,1,1,0,0,1,0,0,0,0,1,0,1,0,1
+Plan 72,hallway,"Lamp, Window",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Plan 72,bathroom,"Cabinet, Sink, Cabinet",0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+Plan 72,kitchen,"Table, Cabinet, Microwave, Refrigerator",0,0,1,0,0,0,0,1,0,1,0,0,0,1,0,0
+Plan 72,copy_room,"Window, Chair, Cabinet, Table, Paper",0,0,1,1,0,0,0,0,1,0,0,0,0,1,0,1
+Plan 73,office,"TV/Monitor, Table, Chair, Lamp, Window",0,0,0,1,0,0,1,0,0,0,0,0,1,1,0,1
+Plan 73,conference_room,"Board, Window, TV/Monitor, Chair",0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,1
+Plan 73,lounge,"Table, Cabinet, Window",0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1
+Plan 73,hallway,"Window, Lamp",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Plan 73,bathroom,"Window, Cabinet, Sink, Trash Can",0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1
+Plan 73,kitchen,"Cabinet, Window, Table, Chair, Microwave",0,0,1,1,0,0,0,1,0,0,0,0,0,1,0,1
+Plan 73,copy_room,"Cabinet, Paper",0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0
+Plan 74,office,"Chair, Lamp, TV/Monitor, Table",0,0,0,1,0,0,1,0,0,0,0,0,1,1,0,0
+Plan 74,conference_room,"Table, Window, Board",0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+Plan 74,lounge,"Window, Chair, Cabinet, Lamp",0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,1
+Plan 74,hallway,"Lamp, Window",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Plan 74,bathroom,"Cabinet, Window, Sink",0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1
+Plan 74,kitchen,"Window, Refrigerator, Countertop, Microwave",0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,1
+Plan 74,copy_room,"Chair, Table, Paper, Clutter",0,0,0,1,1,0,0,0,1,0,0,0,0,1,0,0
+Plan 75,office,"TV/Monitor, Table",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+Plan 75,conference_room,"Chair, Table, Board",0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+Plan 75,lounge,"Lamp, Chair, Sofa",0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0
+Plan 75,hallway,"Window, Lamp",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Plan 75,bathroom,"Cabinet, Window, Sink, Trash Can, Cabinet",0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1
+Plan 75,kitchen,"Chair, Cabinet, Table, Window, Countertop, Refrigerator, Microwave",0,0,1,1,0,1,0,1,0,1,0,0,0,1,0,1
+Plan 75,copy_room,"Cabinet, Paper, Clutter",0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0
+Plan 76,office,"Chair, Table, TV/Monitor, Lamp, Window",0,0,0,1,0,0,1,0,0,0,0,0,1,1,0,1
+Plan 76,conference_room,"Window, Table, Board, TV/Monitor, Chair",0,1,0,1,0,0,0,0,0,0,0,0,1,1,0,1
+Plan 76,lounge,"Sofa, Window, Chair",0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1
+Plan 76,hallway,"Window, Lamp",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Plan 76,bathroom,"Window, Cabinet, Sink",0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1
+Plan 76,kitchen,"Cabinet, Window, Countertop, Refrigerator, Microwave",0,0,1,0,0,1,0,1,0,1,0,0,0,0,0,1
+Plan 76,copy_room,"Table, Chair, Paper",0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0
+Plan 77,office,"Lamp, Window, Table, TV/Monitor, Chair",0,0,0,1,0,0,1,0,0,0,0,0,1,1,0,1
+Plan 77,conference_room,"Chair, TV/Monitor, Board, Window, Table",0,1,0,1,0,0,0,0,0,0,0,0,1,1,0,1
+Plan 77,lounge,"Window, Table, Cabinet, Chair, Sofa",0,0,1,1,0,0,0,0,0,0,0,1,0,1,0,1
+Plan 77,hallway,Window,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Plan 77,bathroom,"Cabinet, Window, Sink",0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1
+Plan 77,kitchen,"Window, Chair, Cabinet, Refrigerator, Microwave",0,0,1,1,0,0,0,1,0,1,0,0,0,0,0,1
+Plan 77,copy_room,"Chair, Table, Paper",0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0
+Plan 78,office,"Table, Chair",0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+Plan 78,conference_room,"Chair, Table, Board, Window, TV/Monitor",0,1,0,1,0,0,0,0,0,0,0,0,1,1,0,1
+Plan 78,lounge,"Sofa, Window, Chair, Cabinet",0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,1
+Plan 78,hallway,"Window, Lamp",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Plan 78,bathroom,"Window, Cabinet, Sink, Cabinet",0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1
+Plan 78,kitchen,"Chair, Cabinet, Table, Window, Refrigerator",0,0,1,1,0,0,0,0,0,1,0,0,0,1,0,1
+Plan 78,copy_room,"Chair, Window, Paper",0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1
+Plan 79,office,"Table, Chair, TV/Monitor, Lamp",0,0,0,1,0,0,1,0,0,0,0,0,1,1,0,0
+Plan 79,conference_room,"Chair, Table, Board, TV/Monitor, Window",0,1,0,1,0,0,0,0,0,0,0,0,1,1,0,1
+Plan 79,lounge,"Window, Table, Chair, Sofa, Lamp, Cabinet",0,0,1,1,0,0,1,0,0,0,0,1,0,1,0,1
+Plan 79,hallway,"Lamp, Window",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Plan 79,bathroom,"Cabinet, Sink, Cabinet",0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+Plan 79,kitchen,"Cabinet, Countertop",0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+Plan 79,copy_room,"Table, Chair, Cabinet, Window, Paper, Clutter",0,0,1,1,1,0,0,0,1,0,0,0,0,1,0,1
+Plan 80,office,"Lamp, TV/Monitor, Table",0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0
+Plan 80,conference_room,"Table, TV/Monitor, Window",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1
+Plan 80,lounge,"Chair, Lamp, Cabinet, Window, Sofa, Table",0,0,1,1,0,0,1,0,0,0,0,1,0,1,0,1
+Plan 80,hallway,Lamp,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Plan 80,bathroom,"Cabinet, Window, Sink",0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1
+Plan 80,kitchen,"Table, Cabinet, Chair, Window, Microwave",0,0,1,1,0,0,0,1,0,0,0,0,0,1,0,1
+Plan 80,copy_room,"Table, Paper",0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0
+Plan 81,office,"Table, Window, Lamp, TV/Monitor, Chair",0,0,0,1,0,0,1,0,0,0,0,0,1,1,0,1
+Plan 81,conference_room,"Table, TV/Monitor",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+Plan 81,lounge,"Table, Window, Chair",0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+Plan 81,hallway,"Window, Lamp",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Plan 81,bathroom,"Cabinet, Sink, Trash Can",0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0
+Plan 81,kitchen,"Table, Chair, Refrigerator, Countertop",0,0,0,1,0,1,0,0,0,1,0,0,0,1,0,0
+Plan 81,copy_room,"Paper, Clutter",0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+Plan 82,office,"Table, TV/Monitor, Chair, Window, Lamp",0,0,0,1,0,0,1,0,0,0,0,0,1,1,0,1
+Plan 82,conference_room,"TV/Monitor, Table, Window, Board",0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1
+Plan 82,lounge,"Window, Chair, Cabinet, Table",0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,1
+Plan 82,hallway,"Window, Lamp",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Plan 82,bathroom,"Cabinet, Sink, Trash Can",0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0
+Plan 82,kitchen,"Window, Table, Cabinet, Chair, Microwave",0,0,1,1,0,0,0,1,0,0,0,0,0,1,0,1
+Plan 82,copy_room,"Window, Table, Chair, Paper, Clutter",0,0,0,1,1,0,0,0,1,0,0,0,0,1,0,1
+Plan 83,office,"TV/Monitor, Lamp, Table, Window",0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1
+Plan 83,conference_room,"Table, Chair, Window, TV/Monitor, Board",0,1,0,1,0,0,0,0,0,0,0,0,1,1,0,1
+Plan 83,lounge,"Cabinet, Sofa, Chair, Window, Table, Lamp",0,0,1,1,0,0,1,0,0,0,0,1,0,1,0,1
+Plan 83,hallway,"Lamp, Window",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Plan 83,bathroom,"Window, Cabinet, Sink, Trash Can, Cabinet",0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1
+Plan 83,kitchen,"Cabinet, Chair, Table, Microwave, Countertop, Refrigerator",0,0,1,1,0,1,0,1,0,1,0,0,0,1,0,0
+Plan 83,copy_room,"Chair, Window, Paper",0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1
+Plan 84,office,"Table, Window, Lamp, TV/Monitor, Chair",0,0,0,1,0,0,1,0,0,0,0,0,1,1,0,1
+Plan 84,conference_room,"Window, Table, Board, TV/Monitor",0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1
+Plan 84,lounge,"Table, Sofa, Window, Chair, Cabinet, Lamp",0,0,1,1,0,0,1,0,0,0,0,1,0,1,0,1
+Plan 84,hallway,"Lamp, Window",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Plan 84,bathroom,"Cabinet, Window, Sink, Trash Can",0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1
+Plan 84,kitchen,"Cabinet, Chair, Countertop, Microwave, Refrigerator",0,0,1,1,0,1,0,1,0,1,0,0,0,0,0,0
+Plan 84,copy_room,"Table, Window, Paper, Clutter",0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,1
+Plan 85,office,"Chair, Table, TV/Monitor, Window, Lamp",0,0,0,1,0,0,1,0,0,0,0,0,1,1,0,1
+Plan 85,conference_room,"Board, TV/Monitor, Window, Table, Chair",0,1,0,1,0,0,0,0,0,0,0,0,1,1,0,1
+Plan 85,lounge,"Cabinet, Chair, Window, Table, Lamp, Sofa",0,0,1,1,0,0,1,0,0,0,0,1,0,1,0,1
+Plan 85,hallway,"Lamp, Window",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Plan 85,bathroom,"Cabinet, Sink, Trash Can, Cabinet",0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0
+Plan 85,kitchen,"Cabinet, Chair, Table, Window, Countertop, Microwave, Refrigerator",0,0,1,1,0,1,0,1,0,1,0,0,0,1,0,1
+Plan 85,copy_room,"Table, Paper",0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0
+Plan 86,office,"Chair, Window, Lamp, TV/Monitor, Table",0,0,0,1,0,0,1,0,0,0,0,0,1,1,0,1
+Plan 86,conference_room,"Chair, Table, TV/Monitor, Board",0,1,0,1,0,0,0,0,0,0,0,0,1,1,0,0
+Plan 86,lounge,"Chair, Cabinet, Window, Lamp, Sofa",0,0,1,1,0,0,1,0,0,0,0,1,0,0,0,1
+Plan 86,hallway,"Lamp, Window",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Plan 86,bathroom,"Window, Cabinet, Sink, Trash Can, Cabinet",0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1
+Plan 86,kitchen,"Table, Countertop, Refrigerator",0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0
+Plan 86,copy_room,"Window, Table, Paper",0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1
+Plan 87,office,"Chair, Lamp, Window",0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1
+Plan 87,conference_room,"Board, Table, Window, Chair, TV/Monitor",0,1,0,1,0,0,0,0,0,0,0,0,1,1,0,1
+Plan 87,lounge,"Lamp, Cabinet, Chair, Sofa, Window, Table",0,0,1,1,0,0,1,0,0,0,0,1,0,1,0,1
+Plan 87,hallway,"Lamp, Window",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Plan 87,bathroom,"Window, Sink, Cabinet",0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1
+Plan 87,kitchen,"Cabinet, Window, Microwave",0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1
+Plan 87,copy_room,"Chair, Cabinet, Paper",0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0
+Plan 88,office,"Lamp, TV/Monitor, Window, Table, Chair",0,0,0,1,0,0,1,0,0,0,0,0,1,1,0,1
+Plan 88,conference_room,"Window, Table, TV/Monitor, Chair",0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,1
+Plan 88,lounge,"Window, Table, Cabinet, Lamp, Sofa",0,0,1,0,0,0,1,0,0,0,0,1,0,1,0,1
+Plan 88,hallway,"Lamp, Window",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Plan 88,bathroom,"Cabinet, Window, Sink, Trash Can, Cabinet",0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1
+Plan 88,kitchen,"Chair, Cabinet, Window, Refrigerator",0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,1
+Plan 88,copy_room,"Chair, Table, Paper",0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0
+Plan 89,office,"Table, TV/Monitor, Chair, Window",0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,1
+Plan 89,conference_room,"Board, TV/Monitor, Table, Chair",0,1,0,1,0,0,0,0,0,0,0,0,1,1,0,0
+Plan 89,lounge,"Chair, Table, Cabinet, Lamp, Window, Sofa",0,0,1,1,0,0,1,0,0,0,0,1,0,1,0,1
+Plan 89,hallway,"Window, Lamp",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Plan 89,bathroom,"Cabinet, Window, Sink, Trash Can",0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1
+Plan 89,kitchen,"Chair, Table, Window, Cabinet, Microwave",0,0,1,1,0,0,0,1,0,0,0,0,0,1,0,1
+Plan 89,copy_room,"Table, Window, Chair, Paper, Clutter",0,0,0,1,1,0,0,0,1,0,0,0,0,1,0,1
+Plan 90,office,"Table, Chair, Window",0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+Plan 90,conference_room,"Board, Table, Chair, Window, TV/Monitor",0,1,0,1,0,0,0,0,0,0,0,0,1,1,0,1
+Plan 90,lounge,"Lamp, Table, Cabinet, Chair, Sofa, Window",0,0,1,1,0,0,1,0,0,0,0,1,0,1,0,1
+Plan 90,hallway,"Window, Lamp",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Plan 90,bathroom,"Sink, Cabinet",0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+Plan 90,kitchen,", Microwave, Countertop",1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+Plan 90,copy_room,"Window, Chair, Table, Paper",0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,1
+Plan 91,office,"Window, Lamp, Table",0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1
+Plan 91,conference_room,"Chair, Table, TV/Monitor, Window, Board",0,1,0,1,0,0,0,0,0,0,0,0,1,1,0,1
+Plan 91,lounge,"Sofa, Chair, Cabinet, Window, Table",0,0,1,1,0,0,0,0,0,0,0,1,0,1,0,1
+Plan 91,hallway,"Lamp, Window",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Plan 91,bathroom,"Cabinet, Sink, Trash Can, Cabinet",0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0
+Plan 91,kitchen,"Table, Countertop",0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+Plan 91,copy_room,"Table, Window, Cabinet, Chair, Paper",0,0,1,1,0,0,0,0,1,0,0,0,0,1,0,1
+Plan 92,office,"Lamp, Window, Chair, TV/Monitor",0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,1
+Plan 92,conference_room,"Table, TV/Monitor, Board",0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+Plan 92,lounge,"Window, Lamp, Cabinet",0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1
+Plan 92,hallway,"Window, Lamp",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Plan 92,bathroom,"Cabinet, Sink, Cabinet",0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+Plan 92,kitchen,"Cabinet, Table, Chair, Window, Refrigerator, Countertop, Microwave",0,0,1,1,0,1,0,1,0,1,0,0,0,1,0,1
+Plan 92,copy_room,"Chair, Table, Window, Cabinet, Paper",0,0,1,1,0,0,0,0,1,0,0,0,0,1,0,1
+Plan 93,office,"Chair, Window, Lamp, TV/Monitor, Table",0,0,0,1,0,0,1,0,0,0,0,0,1,1,0,1
+Plan 93,conference_room,"TV/Monitor, Chair, Table",0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0
+Plan 93,lounge,"Table, Window, Lamp, Chair, Cabinet, Sofa",0,0,1,1,0,0,1,0,0,0,0,1,0,1,0,1
+Plan 93,hallway,"Lamp, Window",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Plan 93,bathroom,"Cabinet, Window, Sink",0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1
+Plan 93,kitchen,"Chair, Refrigerator, Countertop",0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0
+Plan 93,copy_room,"Cabinet, Chair, Table, Window, Paper",0,0,1,1,0,0,0,0,1,0,0,0,0,1,0,1
+Plan 94,office,"Chair, TV/Monitor",0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Plan 94,conference_room,"Board, Chair, Window, Table",0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+Plan 94,lounge,"Window, Table, Lamp, Chair, Cabinet",0,0,1,1,0,0,1,0,0,0,0,0,0,1,0,1
+Plan 94,hallway,"Lamp, Window",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Plan 94,bathroom,"Window, Sink, Trash Can, Cabinet",0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1
+Plan 94,kitchen,"Chair, Microwave, Refrigerator",0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0
+Plan 94,copy_room,"Cabinet, Chair, Window, Paper, Clutter",0,0,1,1,1,0,0,0,1,0,0,0,0,0,0,1
+Plan 95,office,"Chair, TV/Monitor, Lamp, Window, Table",0,0,0,1,0,0,1,0,0,0,0,0,1,1,0,1
+Plan 95,conference_room,"TV/Monitor, Window, Board, Chair",0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,1
+Plan 95,lounge,"Window, Sofa, Lamp, Chair, Cabinet, Table",0,0,1,1,0,0,1,0,0,0,0,1,0,1,0,1
+Plan 95,hallway,"Window, Lamp",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Plan 95,bathroom,"Cabinet, Sink, Trash Can",0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0
+Plan 95,kitchen,"Cabinet, Window, Table, Microwave, Refrigerator",0,0,1,0,0,0,0,1,0,1,0,0,0,1,0,1
+Plan 95,copy_room,"Table, Chair, Window, Paper",0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,1
+Plan 96,office,"Chair, TV/Monitor, Table, Lamp, Window",0,0,0,1,0,0,1,0,0,0,0,0,1,1,0,1
+Plan 96,conference_room,"Board, Chair, Table",0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+Plan 96,lounge,"Cabinet, Lamp, Table, Sofa, Chair, Window",0,0,1,1,0,0,1,0,0,0,0,1,0,1,0,1
+Plan 96,hallway,"Lamp, Window",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Plan 96,bathroom,"Window, Cabinet, Sink, Trash Can",0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1
+Plan 96,kitchen,"Chair, Window, Cabinet, Refrigerator, Countertop",0,0,1,1,0,1,0,0,0,1,0,0,0,0,0,1
+Plan 96,copy_room,"Window, Paper, Clutter",0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1
+Plan 97,office,"Lamp, Chair, Window",0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1
+Plan 97,conference_room,"TV/Monitor, Chair, Window, Board",0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,1
+Plan 97,lounge,"Lamp, Table, Sofa, Chair, Cabinet",0,0,1,1,0,0,1,0,0,0,0,1,0,1,0,0
+Plan 97,hallway,"Window, Lamp",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Plan 97,bathroom,"Cabinet, Sink",0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+Plan 97,kitchen,"Cabinet, Chair, Window, Table, Microwave, Countertop",0,0,1,1,0,1,0,1,0,0,0,0,0,1,0,1
+Plan 97,copy_room,"Window, Chair, Table, Paper",0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,1
+Plan 98,office,"Lamp, Table",0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+Plan 98,conference_room,"Board, Window, TV/Monitor, Table",0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1
+Plan 98,lounge,"Lamp, Window, Cabinet",0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1
+Plan 98,hallway,"Lamp, Window",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Plan 98,bathroom,"Window, Cabinet, Sink, Trash Can, Cabinet",0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1
+Plan 98,kitchen,"Cabinet, Window, Table, Chair, Countertop, Refrigerator",0,0,1,1,0,1,0,0,0,1,0,0,0,1,0,1
+Plan 98,copy_room,"Table, Cabinet, Window, Paper",0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,1
+Plan 99,office,"Lamp, Table, Window, TV/Monitor",0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1
+Plan 99,conference_room,TV/Monitor,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Plan 99,lounge,"Window, Sofa, Chair, Lamp, Table",0,0,0,1,0,0,1,0,0,0,0,1,0,1,0,1
+Plan 99,hallway,"Lamp, Window",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Plan 99,bathroom,"Window, Cabinet, Sink, Trash Can, Cabinet",0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1
+Plan 99,kitchen,"Cabinet, Countertop, Microwave, Refrigerator",0,0,1,0,0,1,0,1,0,1,0,0,0,0,0,0
+Plan 99,copy_room,"Table, Paper",0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0
+Plan 100,office,"Window, Lamp, Table, TV/Monitor",0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1
+Plan 100,conference_room,"Chair, Board, Window, TV/Monitor, Table",0,1,0,1,0,0,0,0,0,0,0,0,1,1,0,1
+Plan 100,lounge,"Sofa, Cabinet, Chair, Window, Lamp, Table",0,0,1,1,0,0,1,0,0,0,0,1,0,1,0,1
+Plan 100,hallway,"Window, Lamp",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Plan 100,bathroom,"Window, Sink, Trash Can, Cabinet",0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1
+Plan 100,kitchen,"Window, Cabinet, Chair, Refrigerator, Countertop, Microwave",0,0,1,1,0,1,0,1,0,1,0,0,0,0,0,1
+Plan 100,copy_room,"Window, Table, Chair, Paper, Clutter",0,0,0,1,1,0,0,0,1,0,0,0,0,1,0,1
